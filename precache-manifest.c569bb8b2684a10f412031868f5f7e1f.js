@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "88b67aa3ae753166ac4a",
+    "revision": "04339d7e5c1c99ef52a7",
     "url": "/nft-master/static/css/main.1e37f0ad.chunk.css"
   },
   {
-    "revision": "88b67aa3ae753166ac4a",
-    "url": "/nft-master/static/js/main.88b67aa3.chunk.js"
+    "revision": "04339d7e5c1c99ef52a7",
+    "url": "/nft-master/static/js/main.04339d7e.chunk.js"
   },
   {
     "revision": "fedbd7fbc27f1e1aa58d",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/nft-master/static/js/runtime~main.d7210db2.js"
   },
   {
-    "revision": "c804f9471a5c658137174a784bc16797",
+    "revision": "c3da00b9ca1638afabe6d597dc438401",
     "url": "/nft-master/index.html"
   }
 ];

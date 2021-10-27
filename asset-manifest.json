@@ -1,7 +1,7 @@
 {
   "main.css": "/nft-master/static/css/main.1e37f0ad.chunk.css",
-  "main.js": "/nft-master/static/js/main.88b67aa3.chunk.js",
-  "main.js.map": "/nft-master/static/js/main.88b67aa3.chunk.js.map",
+  "main.js": "/nft-master/static/js/main.04339d7e.chunk.js",
+  "main.js.map": "/nft-master/static/js/main.04339d7e.chunk.js.map",
   "static/css/1.9765a299.chunk.css": "/nft-master/static/css/1.9765a299.chunk.css",
   "static/js/1.fedbd7fb.chunk.js": "/nft-master/static/js/1.fedbd7fb.chunk.js",
   "static/js/1.fedbd7fb.chunk.js.map": "/nft-master/static/js/1.fedbd7fb.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/main.1e37f0ad.chunk.css.map": "/nft-master/static/css/main.1e37f0ad.chunk.css.map",
   "static/css/1.9765a299.chunk.css.map": "/nft-master/static/css/1.9765a299.chunk.css.map",
   "index.html": "/nft-master/index.html",
-  "precache-manifest.35ede3d93ab837fc2746a20d4f842ef4.js": "/nft-master/precache-manifest.35ede3d93ab837fc2746a20d4f842ef4.js",
+  "precache-manifest.c569bb8b2684a10f412031868f5f7e1f.js": "/nft-master/precache-manifest.c569bb8b2684a10f412031868f5f7e1f.js",
   "service-worker.js": "/nft-master/service-worker.js"
 }
